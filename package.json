@@ -1,5 +1,5 @@
 {
-  "name": "test_migration",
+  "name": "news",
   "version": "1.0.0",
   "description": "Bitrix news crawler that produces an intermediate JSON dataset",
   "private": true,
